@@ -22,7 +22,7 @@ const App = () => {
           <div className="col">
             <Collapse href="collapseExample2">
               <Card
-                cardTitle="TEST TITLE"
+                cardTitle="TEST TITLEX"
                 cardText="Lorem Ipsum Text 2"
                 updatedTime="Last Updated 2 min ago"
                 image="https://picsum.photos/id/2/200/300"
